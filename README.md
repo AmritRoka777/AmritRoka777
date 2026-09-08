@@ -1,5 +1,4 @@
 
-
 ## About Me
 
 Hello, I'm an IT student with a passion for building modern software applications and exploring Artificial Intelligence and Machine Learning.
